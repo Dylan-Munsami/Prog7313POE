@@ -50,6 +50,7 @@ The key aims are:
 - Achievement tracking with Firebase database flags
 - Navigation drawer for smooth screen transitions
 - Planned mini-game integration for budgeting reinforcement
+- Graph View Of expense 
 
 ---
 
